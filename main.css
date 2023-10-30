@@ -1,0 +1,35 @@
+.divName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.divName button {
+  height: 2em;
+  margin-left: 0.5em;
+}
+
+.divEmail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.divEmail button {
+  height: 2em;
+  margin-left: 0.5em;
+}
+
+.divWebsite {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.divWebsite button {
+  height: 2em;
+  margin-left: 0.5em;
+}
